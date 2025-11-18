@@ -17,6 +17,10 @@ Thumbs.db
 artifacts/
 data/
 *.pt
+*.pth
+*.onnx
+*.h5
+*.keras
 model.h5
 model.keras
 
